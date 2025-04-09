@@ -1,1 +1,1 @@
-Perubahan dari fitur A
+Perubahan dari fitur A dan fitur B
