@@ -23,7 +23,7 @@ git checkout -b fitur-hello
 ### 2. Buat File Baru di Branch
 
 ```bash
-echo "Halo dari branch fitur-hello!" > 02-branching/hello-branch.md
+echo "Halo dari branch fitur-hello" > 02-branching/hello-branch.md
 git add .
 git commit -m "Menambahkan hello-branch.md di fitur-hello"
 ```
